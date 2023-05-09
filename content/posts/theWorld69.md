@@ -1,5 +1,5 @@
 ---
-title: "Hjalmar Söderberg"
+title: "En händelserik tid"
 date: 2023-05-09T15:14:12+02:00
 draft: false
 summary: "Hjalmar Söderberg föddes 1869 och dog 1941. Här står det lite om vad som hände i världen under hans liv."

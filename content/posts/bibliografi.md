@@ -1,5 +1,5 @@
 ---
-title: "Hjalmar's Författarskap"
+title: "Hjalmar som författare"
 date: 2023-05-09T12:37:45+02:00
 draft: false
 summary: "Här står det lite om Hjalmars böcker"

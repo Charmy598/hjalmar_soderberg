@@ -1,8 +1,9 @@
 ---
-title: "Recension"
+title: "Recension av Pälsen"
 date: 2023-05-08T22:38:02+02:00
 draft: false
 summary: En recension av novellen Pälsen
+read_more_copy: "Läs mer"
 ---
 
 Recension av Pälsen, av Hjalmar söderberg. 
