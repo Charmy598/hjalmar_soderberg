@@ -1,0 +1,5 @@
+baseURL = 'http://hjalmarsoderberg.se/'
+languageCode = 'sv-se'
+title = 'Hjalmar Söderberg'
+theme = 'ananke'
+
