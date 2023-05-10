@@ -31,7 +31,7 @@ Hans mamma blev sjuk medan han bodde i Kristianstad, och han flyttade då tillba
 
 Han släppe sin första roman, Förvillelser, 1895.
 
-Hans skrev både noveller, poesi och pjäser, och hans texter har ofta teman av ensamhet, planlöst drivande, krav ifrån familj och omgivning, och att en enskild handling kan vara avgörande för en människas liv. <De brukar vara mörka och filosofiska, med intelligenta iaktagelser>
+Hans skrev både noveller, poesi och pjäser, och hans texter har ofta teman av ensamhet, planlöst drivande, krav ifrån familj och omgivning, och att en enskild handling kan vara avgörande för en människas liv.
 
 Hjalmar Söderberg gifte sig och fick barn flera gånger genom livet, först i Stockholm med Märta Abenius, då han fick tre barn. Senare flyttade han till Köpenhamn och gifte sig så småningom med Emelie Voss. De hade då redan fått en dotter. Det har även funnits rykten om en till dotter, utanför äktenskapet.
 
